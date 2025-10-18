@@ -1,5 +1,5 @@
 
-# AI-Driven Crop Disease Prediction and Management System 🌾
+# AI-Driven Plant Disease Prediction System 🌾
 
 This repository hosts the code and resources for an AI-Driven Crop Disease Prediction and Management System. Designed to support farmers and agricultural experts, this solution leverages computer vision to detect crop diseases in real-time, helping users make informed decisions to enhance crop health and productivity.
 
